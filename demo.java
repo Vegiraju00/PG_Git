@@ -1,2 +1,2 @@
-This is a new file
+This is a new file just created.
 This is completed
